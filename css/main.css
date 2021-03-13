@@ -1,0 +1,14 @@
+/* Mobile devices (below 992px) */
+body {
+font-family: arial, sans-serif;
+font-size: 14px;
+max-width: 100%;
+}
+
+/* Larger devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    
+}
+/*
+
+*/
