@@ -1,2 +1,2 @@
 # rock-paper-scissors
-The classic game
+A recreation of the classic game. Playable through the console log.
